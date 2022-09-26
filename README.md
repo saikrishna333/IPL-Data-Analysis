@@ -12,7 +12,7 @@ Analyzed  the data of IPL (2018-2020) to find which team was more succssful, whi
 
 ## Feedback
 
-If you have any feedback, please reach out to us at saikrishna33388@gmail.com
+If you have any feedback, please reach out to me at saikrishna33388@gmail.com
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...Machine learning, Deep Learning projects...
